@@ -170,7 +170,7 @@ body{
 .side-bar{
     background-color: rgb(19, 25, 33) ;
     position: fixed;
-    top: -90px;
+    top: -120px;
     left: 0;
     width: 100%;
     height: fit-content;
