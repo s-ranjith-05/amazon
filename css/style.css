@@ -60,11 +60,12 @@ body{
 }
 .search-input i{
     position: absolute;
-    top: 10px;
+    top: 9.5px;
     background-color:rgb(254, 189, 105) ;
     padding: 10px;
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
+    cursor: pointer;
 }
 .return-cart{
     display: flex;
