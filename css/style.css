@@ -286,24 +286,19 @@ body{
     .pdt-image img {
         width: 250px;
         height: 200px;
-        margin-left: 12%;
+        
     }
     .pdtname {
         font-size: 1.4em;
-        margin-left: 10px;
-    }
-    .rating {
-        margin-left: 10px;
-    }
-    .pdt-cost {
-        margin-left: 10px;
-    }
-    .select-qty select {
-        margin-left: 10px;
     }
     .pdt-details button {
         width: 300px;
-        margin-left: 20px;
+    }
+    .product {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
 }
