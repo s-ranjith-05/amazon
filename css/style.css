@@ -277,6 +277,16 @@ body{
     .vertical-nav{
         display: block;
     }
+    .navbar-container-vertical {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 5px;
+        position: fixed;
+        right: 0;
+        left: 0;
+        top: 0;
+    }
     .pdt-section {
         display: flex;
         flex-direction:column;
